@@ -1,5 +1,5 @@
 # Asset-Price-Forecasting
-This repository is dedicated to my [master thesis](https://arxiv.org/abs/2010.06417).
+This repository is dedicated to my [master thesis](https://arxiv.org/abs/2010.06417), in which I forecast Goldman Sachs and General Electric stock prices. Moreoever, I elaborate on time series forecasting and previous works. Lastly, I discuss recurrent neural networks (long-short term memory (LSTM) in particular) in both practical and theoertical pespective.
 
 There are 3 files in this repository:
 1. General Electrics Stock
