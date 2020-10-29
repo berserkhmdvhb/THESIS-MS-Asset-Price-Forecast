@@ -1,5 +1,5 @@
 # Asset-Price-Forecasting
-This repository is dedicated to my master thesis
+This repository is dedicated to my [master thesis](https://arxiv.org/abs/2010.06417).
 
 There are 3 files in this repository:
 1. General Electrics Stock
